@@ -1,11 +1,18 @@
 #	Question	            Answer
+
+
 1	uv version	            0.13.5
+
 2	Scikit-Learn version	1.7.2
+
 3	Conversion probability 
     (loaded model)	        0.533
+
 4	Conversion probability 
     (API)	                0.770
+
 5	Python base image	    python:3.11.15-slim-bookworm
+
 
 Setup and checks
 uv --version -> uv 0.13.5
